@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+
 using Trinder.API.Models;
 
 namespace Trinder.API.Data
